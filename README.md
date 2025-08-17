@@ -1,26 +1,41 @@
-# 📚 Devansh's Project & Research Index
+# 📚 Devansh's GitHub Guide
 
 Welcome to my GitHub portfolio index! 🚀  
-This repository serves as a categorized directory of my work — including **research papers, projects, and experiments**.  
-I will keep updating this list as I publish new work or create new repositories.  
+This repository serves as a **complete guide to my profile**, organizing all my **research papers, cryptography projects, ML work, data systems, and algorithms** into categories for easy navigation.  
 
 ---
 
 ## 🧪 Research Index
+1. [Enhancing Defence Capabilities of UAV Systems by Integrating Mini Drones with Explosive Payloads](https://github.com/Devansh-567/Research-Paper---UAV-system)  
+   📄 *IJCSPUB - International Journal of Current Science, Vol. 15, Issue 2, April 2025*  
 
-### 1. [Enhancing Defence Capabilities of UAV Systems by Integrating Mini Drones with Explosive Payloads](https://github.com/Devansh-567/Research-Paper---UAV-system)
-📄 *IJCSPUB - International Journal of Current Science*  
-ISSN: 2250-1770, Vol. 15, Issue 2, pp. 521–528, April 2025  
-
-🔹 Focus: Defence technology, UAV systems, autonomous mini-drone integration  
+2. [DMS4096: A Novel Approach for Secure Data Encryption in Cache-Augmented Systems](https://github.com/Devansh-567/Research-Paper---DMS4096)  
+   📄 *IJCSPUB - International Journal of Current Science, Vol. 15, Issue 2, April 2025*  
 
 ---
 
-### 2. [DMS4096: A Novel Approach for Secure Data Encryption in Cache-Augmented Systems](https://github.com/Devansh-567/Research-Paper---DMS4096)
-📄 *IJCSPUB - International Journal of Current Science*  
-ISSN: 2250-1770, Vol. 15, Issue 2, pp. 167–174, April 2025  
+## 🔐 Cryptography & Security
+- [TripleECC Encryption Tool](https://github.com/Devansh-567/TripleECC-Encryption-Tool) – GUI-based encryption tool using Triple ECC with real-time attack simulations.  
+- [Bitcoin Transaction Pool Simulator](https://github.com/Devansh-567/Bitcoin-transaction-pool-simulator) – Blockchain mempool simulator (fee prioritization, fairness scoring, expiry).  
+- [DMS4096 Research Paper](https://github.com/Devansh-567/Research-Paper---DMS4096) – Novel encryption algorithm for cache-augmented systems.  
 
-🔹 Focus: Cryptography, high-performance encryption, IoT & cloud security  
+---
+
+## 🤖 Machine Learning & Optimization
+- [Surrogate-Assisted Hybrid Optimizer](https://github.com/Devansh-567/Surrogate-Assisted-Hybrid-Optimizer) – Combines evolutionary algorithms, CMA-ES, Bayesian optimization with surrogate models.  
+- [Contextual Hypergraph Learning Algorithm (CHLA)](https://github.com/Devansh-567/contextual-relationship-learning-algorithm) – Learns evolving relationships across multiple contexts using hypergraphs.  
+- [APTOS (AutoParallel Offloading System)](https://github.com/Devansh-567/APTOS-AutoParallel-Offloading) – Auto-parallelization & task offloading across CPU, simulated GPU, and deep learning tasks.  
+
+---
+
+## 📊 Data & Storage Systems
+- [ChronoMap (Time-Indexed KV Algorithm)](https://github.com/Devansh-567/time-indexed-kv-algorithm-CHRONOMAP) – Time-aware key-value store with versioning, snapshotting, and diffing.  
+- [APCA Compressor](https://github.com/Devansh-567/APCA-Compressor) – Adaptive Predictive Compression Algorithm for time-series data.  
+
+---
+
+## ⚙️ Algorithms & Scheduling
+- [SmartSchedule (OptiSched)](https://github.com/Devansh-567/SmartSchedule-using-greedy-and-heuristic-algorithms) – Scheduling library solving meeting-room & job-shop scheduling with heuristics.  
 
 ---
 
