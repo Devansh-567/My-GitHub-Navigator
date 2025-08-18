@@ -39,4 +39,5 @@ This repository serves as a **complete guide to my profile**, organizing all my 
 
 ---
 
-
+## 🔑 Password Security & Usability
+- [Empathetic Password Intelligence (EPI)](https://github.com/Devansh-567/empathetic-password-intelligence) – Password strength evaluator blending **security, usability, and human psychology**. Offers adaptive scoring, structured explanations, and CLI/JSON integration for applications.
