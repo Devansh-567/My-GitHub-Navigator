@@ -33,7 +33,8 @@ This repository serves as a **complete guide to my profile**, organizing all my 
 ## 🤖 Machine Learning & Optimization
 - [Surrogate-Assisted Hybrid Optimizer](https://github.com/Devansh-567/Surrogate-Assisted-Hybrid-Optimizer) – Combines evolutionary algorithms, CMA-ES, Bayesian optimization with surrogate models.  
 - [Contextual Hypergraph Learning Algorithm (CHLA)](https://github.com/Devansh-567/contextual-relationship-learning-algorithm) – Learns evolving relationships across multiple contexts using hypergraphs.  
-- [APTOS (AutoParallel Offloading System)](https://github.com/Devansh-567/APTOS-AutoParallel-Offloading) – Auto-parallelization & task offloading across CPU, simulated GPU, and deep learning tasks.  
+- [APTOS (AutoParallel Offloading System)](https://github.com/Devansh-567/APTOS-AutoParallel-Offloading) – Auto-parallelization & task offloading across CPU, simulated GPU, and deep learning tasks.
+- [AnomalyGraph-RGA](https://github.com/Devansh-567/AnomalyGraph-RGA) - Real-time self-adaptive anomaly detection in dynamic graphs using recurrent memory, adaptive kernels, and robust statistics. Works fully online with no labels, no retraining, and provides a live dashboard for monitoring.
 
 ---
 
