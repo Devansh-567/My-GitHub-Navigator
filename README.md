@@ -6,7 +6,7 @@ This repository serves as a **complete guide to my profile**, organizing all my 
 ---
 
 ## ✅ My Frameworks (Ready to use globally on any device)
-- [Trusta (Trust-First AutoML Framework)](https://github.com/Devansh-567/Trustra---Trust-First-AutoML-Framework) - Automated ML with built-in fairness, drift detection, and data leakage prevention. One fit() call, full trust report, zero surprises. Produces audit-ready HTML reports, bias detection, and production safety. Available via <font color="red"><b>pip install trusta</b></font>.
+- [Trusta (Trust-First AutoML Framework)](https://github.com/Devansh-567/Trustra---Trust-First-AutoML-Framework) - Automated ML with built-in fairness, drift detection, and data leakage prevention. One fit() call, full trust report, zero surprises. Produces audit-ready HTML reports, bias detection, and production safety. Available via <font color="red"><b>pip install trustra</b></font>.
 - [How to Use Trusta Framework](https://github.com/Devansh-567/Trusta-Examples) - Hands-on walkthrough and application examples of using Trusta for responsible AI model building.
 
   
